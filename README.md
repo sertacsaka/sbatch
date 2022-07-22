@@ -12,6 +12,7 @@ I do not claim that the systems adapted through this package will provide a defi
 - Need no deployment in most bug cases.
 - Quick response to performance problems such as unwanted explain plan changes.
 - Immediate business logic changes possible.
+- Possibility to continue from where it left off when an error occurs.
 - Every structure that comes to mind can be parametricized so that it can be changed from an interface, and most workloads can be transferred to the relevant department.
 
 #### Cons
